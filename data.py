@@ -1,4 +1,4 @@
-#import berserk
+import berserk
 #import matplotlib.pyplot as plt
 #import numpy as np
 #from secrets.py import api_key
