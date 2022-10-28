@@ -1,1 +1,1 @@
-#install berserk-0.10.0
+#pip install berserk(-v 0.10.0)
