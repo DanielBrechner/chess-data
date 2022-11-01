@@ -1,0 +1,5 @@
+f = open("lichess.txt", "r")
+token = (f.read())
+token = token.strip()
+session = berserk.TokenSession(token)
+client = berserk.Client (session=session)
